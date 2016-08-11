@@ -43,6 +43,8 @@
     "ndarray-convolve": "^2.0.0",
     "ndarray-gemm": "^1.0.0",
     "ndarray-ops": "^1.2.2",
+    "ndarray-pack": "^1.2.1",
+    "ndarray-show": "^2.0.0",
     "parse-dds": "^1.2.1",
     "present": "^1.0.0",
     "primitive-sphere": "^2.0.0",
